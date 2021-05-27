@@ -8,5 +8,5 @@ conda activate pi-gan
 # python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains _detail --silent
 # python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains .diffuse_reflectance.hdf5 --silent
 # python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains .position.hdf5 --silent
-# python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains color.jpg --silent
-python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains diffuse_reflectance.jpg --silent
+python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains color.jpg --silent
+# python3 ./download.py -d /scratch_net/biwidl306_second/shecai/hypersim --contains diffuse_reflectance.jpg --silent
