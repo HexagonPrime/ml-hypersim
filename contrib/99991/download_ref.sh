@@ -1,5 +1,5 @@
 #!/bin/bash -l
-#SBATCH --output=b.out
+#SBATCH --output=ref.out
 #SBATCH --mem=40G
 
 source /scratch_net/biwidl306/shecai/conda/etc/profile.d/conda.sh
