@@ -4,4 +4,4 @@
 
 source /scratch_net/biwidl306/shecai/conda/etc/profile.d/conda.sh
 conda activate pi-gan
-rm -rf /scratch_net/biwidl306_second/shecai/hypersim_0
+rm -rf /scratch_net/biwidl306_second/shecai/hypersim0
